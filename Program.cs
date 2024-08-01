@@ -10,6 +10,6 @@ class Program
         */
 
         // Para ello primero crearemos la calse abstracta entidadViva (de aqui crearemos aliados y enemigos)
-        //Dirigete a la clase EntidadViva
+        //Dirigete a la clase [EntidadViva]
     }
 }
